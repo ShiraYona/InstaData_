@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InstaData.Application/InstaData.Application.csproj" />
+  <Project Path="InstaData.Domain/InstaData.Domain.csproj" />
+  <Project Path="InstaData.Infrastructure/InstaData.Infrastructure.csproj" />
+  <Project Path="InstaData/InstaData.csproj" />
+</Solution>
